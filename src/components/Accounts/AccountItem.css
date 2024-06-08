@@ -1,0 +1,49 @@
+.account-item {
+  background-color: white;
+  border: solid black;
+  padding: 1rem;
+  margin: 2rem auto;
+  /* width: 100%; */
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.account-item_type {
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  padding: 0.5rem;
+}
+
+.accoun-item_title {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.account-item_price {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.account-item_buy {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.account-item_date {
+  font-size: 1rem;
+  color: black;
+  padding: 0.5rem;
+  text-align: left;
+}

@@ -1,0 +1,161 @@
+.account {
+  background-color: white;
+  border: solid black;
+  padding: 1rem;
+
+  margin: 2rem auto;
+  width: 28rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.name {
+  font: inherit;
+  font-weight: bolder;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  color: black;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.name label {
+  font-size: larger;
+}
+.name input {
+  margin-left: 10px;
+  font: inherit;
+  padding: 0.3rem;
+  border-radius: 3px;
+  border: 1px solid black;
+  width: 10rem;
+  max-width: 100%;
+}
+
+.price {
+  font: inherit;
+  font-weight: bolder;
+  cursor: pointer;
+  padding: 0.1% 2rem;
+  color: black;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.price label {
+  font-size: larger;
+}
+.price input {
+  margin-left: 10px;
+  font: inherit;
+  padding: 0.3rem;
+  border-radius: 3px;
+  border: 1px solid black;
+  width: 10rem;
+  max-width: 100%;
+}
+
+.type {
+  font: inherit;
+  font-weight: bolder;
+  cursor: pointer;
+  padding: 3% 2rem;
+  color: black;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.type label {
+  font-size: larger;
+}
+
+.type select {
+  margin-left: 10px;
+  font: inherit;
+  padding: 0.3rem;
+  border-radius: 3px;
+  border: 1px solid black;
+  width: 10rem;
+  max-width: 100%;
+}
+
+.date {
+  font: inherit;
+  font-weight: bolder;
+  cursor: pointer;
+  padding: 1% 2rem;
+  color: black;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.date label {
+  font-size: larger;
+}
+
+.date input {
+  margin-left: 10px;
+  font: inherit;
+  padding: 0.3rem;
+  border-radius: 3px;
+  border: 1px solid black;
+  width: 10rem;
+  max-width: 100%;
+}
+
+.memo {
+  font: inherit;
+  font-weight: bolder;
+  cursor: pointer;
+  padding: 3% 2rem;
+  color: black;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.memo label {
+  font-size: larger;
+}
+
+.memo input {
+  margin-left: 10px;
+  font: inherit;
+  padding: 0.3rem;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+.buy {
+  font: inherit;
+  font-weight: bolder;
+  cursor: pointer;
+  padding: 3% 2rem;
+  color: black;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.buy label {
+  font-size: larger;
+}
+
+.buy input {
+  margin-left: 10px;
+  font: inherit;
+  padding: 0.3rem;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+.AccountActions button {
+  margin-top: 2%;
+  font-weight: 500;
+  padding: 2% 2rem;
+  margin-left: 10px;
+  font: inherit;
+  border-radius: 3px;
+  font-weight: bolder;
+  border: 1px solid black;
+}
